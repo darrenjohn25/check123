@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="16LoPTMo3e5fPD4tyuvtCq3ptImnAFvZG">
+	<name>Untitled project</name>
+	<gx:CascadingStyle kml:id="__managed_style_5CA056673A39F3AC5F3C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_407A4DD3D039F3AC5F3C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_30709C1EE139F3AC5F3C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_407A4DD3D039F3AC5F3C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5CA056673A39F3AC5F3C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="006FE229B239F3ABE968">
+		<name>Wheels India Limited</name>
+		<gx:mid>/g/1tkqypr9</gx:mid>
+		<gx:fid>0x3a52f293ac78fa93:0xdaf34f345de9a395</gx:fid>
+		<LookAt>
+			<longitude>79.9384989</longitude>
+			<latitude>12.947269</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.543222016619</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_30709C1EE139F3AC5F3C</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>79.9384989,12.947269,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01468D130B39F3AC45D8">
+		<name>Wheels India Ltd CAW</name>
+		<gx:mid>/g/11h7kq8cdd</gx:mid>
+		<gx:fid>0x3a4d7db97cf3de21:0xab3aaf10dcbbe3a1</gx:fid>
+		<LookAt>
+			<longitude>79.9801889</longitude>
+			<latitude>13.3596713</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1024.616112260446</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_30709C1EE139F3AC5F3C</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>79.9801889,13.3596713,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CD7851B0A39F3AD2F9C">
+		<name>Wheels India Limited</name>
+		<gx:mid>/g/1tgr_c1n</gx:mid>
+		<gx:fid>0x3a5264737b21abb7:0x270782c020b9a95b</gx:fid>
+		<LookAt>
+			<longitude>80.1933214</longitude>
+			<latitude>13.1044995</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.815423105721</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_30709C1EE139F3AC5F3C</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1933214,13.1044995,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
